@@ -1,0 +1,30 @@
+C:\Users\veniu\source\repos\DAL Framework Generator\DalGen\obj\Debug\netstandard2.0\DalGen.Properties.Resources.resources
+C:\Users\veniu\source\repos\DAL Framework Generator\DalGen\obj\Debug\netstandard2.0\DalGen.csproj.GenerateResource.cache
+C:\Users\veniu\source\repos\DAL Framework Generator\DalGen\obj\Debug\netstandard2.0\DalGen.csproj.CoreCompileInputs.cache
+C:\Users\veniu\source\repos\DAL Framework Generator\DalGen\obj\Debug\netstandard2.0\DalGen.AssemblyInfoInputs.cache
+C:\Users\veniu\source\repos\DAL Framework Generator\DalGen\obj\Debug\netstandard2.0\DalGen.AssemblyInfo.cs
+C:\Users\veniu\source\repos\DAL Framework Generator\DalGen\bin\Debug\netstandard2.0\DalGen.deps.json
+C:\Users\veniu\source\repos\DAL Framework Generator\DalGen\bin\Debug\netstandard2.0\DalGen.dll
+C:\Users\veniu\source\repos\DAL Framework Generator\DalGen\bin\Debug\netstandard2.0\DalGen.pdb
+C:\Users\veniu\source\repos\DAL Framework Generator\DalGen\obj\Debug\netstandard2.0\DalGen.dll
+C:\Users\veniu\source\repos\DAL Framework Generator\DalGen\obj\Debug\netstandard2.0\DalGen.pdb
+C:\CodeRepository\Dal Framework\DalGen\bin\Debug\netstandard2.0\DalGen.deps.json
+C:\CodeRepository\Dal Framework\DalGen\bin\Debug\netstandard2.0\DalGen.dll
+C:\CodeRepository\Dal Framework\DalGen\bin\Debug\netstandard2.0\DalGen.pdb
+C:\CodeRepository\Dal Framework\DalGen\obj\Debug\netstandard2.0\DalGen.Properties.Resources.resources
+C:\CodeRepository\Dal Framework\DalGen\obj\Debug\netstandard2.0\DalGen.csproj.GenerateResource.cache
+C:\CodeRepository\Dal Framework\DalGen\obj\Debug\netstandard2.0\DalGen.csproj.CoreCompileInputs.cache
+C:\CodeRepository\Dal Framework\DalGen\obj\Debug\netstandard2.0\DalGen.AssemblyInfoInputs.cache
+C:\CodeRepository\Dal Framework\DalGen\obj\Debug\netstandard2.0\DalGen.AssemblyInfo.cs
+C:\CodeRepository\Dal Framework\DalGen\obj\Debug\netstandard2.0\DalGen.dll
+C:\CodeRepository\Dal Framework\DalGen\obj\Debug\netstandard2.0\DalGen.pdb
+C:\CodeRepository\dalfiles\dalgenerator\DalGen\bin\Debug\netstandard2.0\DalGen.deps.json
+C:\CodeRepository\dalfiles\dalgenerator\DalGen\bin\Debug\netstandard2.0\DalGen.dll
+C:\CodeRepository\dalfiles\dalgenerator\DalGen\bin\Debug\netstandard2.0\DalGen.pdb
+C:\CodeRepository\dalfiles\dalgenerator\DalGen\obj\Debug\netstandard2.0\DalGen.Properties.Resources.resources
+C:\CodeRepository\dalfiles\dalgenerator\DalGen\obj\Debug\netstandard2.0\DalGen.csproj.GenerateResource.cache
+C:\CodeRepository\dalfiles\dalgenerator\DalGen\obj\Debug\netstandard2.0\DalGen.csproj.CoreCompileInputs.cache
+C:\CodeRepository\dalfiles\dalgenerator\DalGen\obj\Debug\netstandard2.0\DalGen.AssemblyInfoInputs.cache
+C:\CodeRepository\dalfiles\dalgenerator\DalGen\obj\Debug\netstandard2.0\DalGen.AssemblyInfo.cs
+C:\CodeRepository\dalfiles\dalgenerator\DalGen\obj\Debug\netstandard2.0\DalGen.dll
+C:\CodeRepository\dalfiles\dalgenerator\DalGen\obj\Debug\netstandard2.0\DalGen.pdb

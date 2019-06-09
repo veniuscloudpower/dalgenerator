@@ -1,0 +1,10 @@
+C:\Users\veniu\source\repos\DAL Framework Generator\DalGen\bin\Release\netstandard2.0\DalGen.deps.json
+C:\Users\veniu\source\repos\DAL Framework Generator\DalGen\bin\Release\netstandard2.0\DalGen.dll
+C:\Users\veniu\source\repos\DAL Framework Generator\DalGen\bin\Release\netstandard2.0\DalGen.pdb
+C:\Users\veniu\source\repos\DAL Framework Generator\DalGen\obj\Release\netstandard2.0\DalGen.Properties.Resources.resources
+C:\Users\veniu\source\repos\DAL Framework Generator\DalGen\obj\Release\netstandard2.0\DalGen.csproj.GenerateResource.cache
+C:\Users\veniu\source\repos\DAL Framework Generator\DalGen\obj\Release\netstandard2.0\DalGen.csproj.CoreCompileInputs.cache
+C:\Users\veniu\source\repos\DAL Framework Generator\DalGen\obj\Release\netstandard2.0\DalGen.AssemblyInfoInputs.cache
+C:\Users\veniu\source\repos\DAL Framework Generator\DalGen\obj\Release\netstandard2.0\DalGen.AssemblyInfo.cs
+C:\Users\veniu\source\repos\DAL Framework Generator\DalGen\obj\Release\netstandard2.0\DalGen.dll
+C:\Users\veniu\source\repos\DAL Framework Generator\DalGen\obj\Release\netstandard2.0\DalGen.pdb

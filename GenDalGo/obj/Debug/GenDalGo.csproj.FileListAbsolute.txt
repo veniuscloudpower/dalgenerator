@@ -1,0 +1,36 @@
+C:\Users\veniu\source\repos\DAL Framework Generator\GenDalGo\bin\Debug\GenDalGo.exe.config
+C:\Users\veniu\source\repos\DAL Framework Generator\GenDalGo\bin\Debug\GenDalGo.exe
+C:\Users\veniu\source\repos\DAL Framework Generator\GenDalGo\bin\Debug\GenDalGo.pdb
+C:\Users\veniu\source\repos\DAL Framework Generator\GenDalGo\bin\Debug\DalGen.dll
+C:\Users\veniu\source\repos\DAL Framework Generator\GenDalGo\bin\Debug\DalGen.pdb
+C:\Users\veniu\source\repos\DAL Framework Generator\GenDalGo\obj\Debug\GenDalGo.csprojAssemblyReference.cache
+C:\Users\veniu\source\repos\DAL Framework Generator\GenDalGo\obj\Debug\GenDalGo.csproj.CoreCompileInputs.cache
+C:\Users\veniu\source\repos\DAL Framework Generator\GenDalGo\obj\Debug\GenDalGo.csproj.CopyComplete
+C:\Users\veniu\source\repos\DAL Framework Generator\GenDalGo\obj\Debug\GenDalGo.exe
+C:\Users\veniu\source\repos\DAL Framework Generator\GenDalGo\obj\Debug\GenDalGo.pdb
+C:\Users\veniu\source\repos\DAL Framework Generator\GenDalGo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\veniu\source\repos\DAL Framework Generator\GenDalGo\bin\Debug\Newtonsoft.Json.xml
+C:\CodeRepository\Dal Framework\GenDalGo\bin\Debug\GenDalGo.exe.config
+C:\CodeRepository\Dal Framework\GenDalGo\bin\Debug\GenDalGo.exe
+C:\CodeRepository\Dal Framework\GenDalGo\bin\Debug\GenDalGo.pdb
+C:\CodeRepository\Dal Framework\GenDalGo\bin\Debug\DalGen.dll
+C:\CodeRepository\Dal Framework\GenDalGo\bin\Debug\Newtonsoft.Json.dll
+C:\CodeRepository\Dal Framework\GenDalGo\bin\Debug\DalGen.pdb
+C:\CodeRepository\Dal Framework\GenDalGo\bin\Debug\Newtonsoft.Json.xml
+C:\CodeRepository\Dal Framework\GenDalGo\obj\Debug\GenDalGo.csprojAssemblyReference.cache
+C:\CodeRepository\Dal Framework\GenDalGo\obj\Debug\GenDalGo.csproj.CoreCompileInputs.cache
+C:\CodeRepository\Dal Framework\GenDalGo\obj\Debug\GenDalGo.csproj.CopyComplete
+C:\CodeRepository\Dal Framework\GenDalGo\obj\Debug\GenDalGo.exe
+C:\CodeRepository\Dal Framework\GenDalGo\obj\Debug\GenDalGo.pdb
+C:\CodeRepository\dalfiles\dalgenerator\GenDalGo\bin\Debug\GenDalGo.exe.config
+C:\CodeRepository\dalfiles\dalgenerator\GenDalGo\bin\Debug\GenDalGo.exe
+C:\CodeRepository\dalfiles\dalgenerator\GenDalGo\bin\Debug\GenDalGo.pdb
+C:\CodeRepository\dalfiles\dalgenerator\GenDalGo\bin\Debug\DalGen.dll
+C:\CodeRepository\dalfiles\dalgenerator\GenDalGo\bin\Debug\Newtonsoft.Json.dll
+C:\CodeRepository\dalfiles\dalgenerator\GenDalGo\bin\Debug\DalGen.pdb
+C:\CodeRepository\dalfiles\dalgenerator\GenDalGo\bin\Debug\Newtonsoft.Json.xml
+C:\CodeRepository\dalfiles\dalgenerator\GenDalGo\obj\Debug\GenDalGo.csprojAssemblyReference.cache
+C:\CodeRepository\dalfiles\dalgenerator\GenDalGo\obj\Debug\GenDalGo.csproj.CoreCompileInputs.cache
+C:\CodeRepository\dalfiles\dalgenerator\GenDalGo\obj\Debug\GenDalGo.csproj.CopyComplete
+C:\CodeRepository\dalfiles\dalgenerator\GenDalGo\obj\Debug\GenDalGo.exe
+C:\CodeRepository\dalfiles\dalgenerator\GenDalGo\obj\Debug\GenDalGo.pdb

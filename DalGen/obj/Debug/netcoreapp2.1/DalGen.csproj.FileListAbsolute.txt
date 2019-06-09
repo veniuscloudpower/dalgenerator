@@ -1,0 +1,22 @@
+C:\DALGenerator\DalGen\DalGen\bin\Debug\netcoreapp2.1\DalGen.deps.json
+C:\DALGenerator\DalGen\DalGen\bin\Debug\netcoreapp2.1\DalGen.dll
+C:\DALGenerator\DalGen\DalGen\obj\Debug\netcoreapp2.1\DalGen.csprojAssemblyReference.cache
+C:\DALGenerator\DalGen\DalGen\obj\Debug\netcoreapp2.1\DalGen.csproj.CoreCompileInputs.cache
+C:\DALGenerator\DalGen\DalGen\obj\Debug\netcoreapp2.1\DalGen.AssemblyInfoInputs.cache
+C:\DALGenerator\DalGen\DalGen\obj\Debug\netcoreapp2.1\DalGen.AssemblyInfo.cs
+C:\DALGenerator\DalGen\DalGen\bin\Debug\netcoreapp2.1\DalGen.runtimeconfig.json
+C:\DALGenerator\DalGen\DalGen\bin\Debug\netcoreapp2.1\DalGen.runtimeconfig.dev.json
+C:\DALGenerator\DalGen\DalGen\bin\Debug\netcoreapp2.1\DalGen.pdb
+C:\DALGenerator\DalGen\DalGen\obj\Debug\netcoreapp2.1\DalGen.dll
+C:\DALGenerator\DalGen\DalGen\obj\Debug\netcoreapp2.1\DalGen.pdb
+C:\Users\veniu\source\repos\DAL Framework Generator\DalGen\bin\Debug\netcoreapp2.1\DalGen.deps.json
+C:\Users\veniu\source\repos\DAL Framework Generator\DalGen\bin\Debug\netcoreapp2.1\DalGen.dll
+C:\Users\veniu\source\repos\DAL Framework Generator\DalGen\bin\Debug\netcoreapp2.1\DalGen.pdb
+C:\Users\veniu\source\repos\DAL Framework Generator\DalGen\obj\Debug\netcoreapp2.1\DalGen.csproj.CoreCompileInputs.cache
+C:\Users\veniu\source\repos\DAL Framework Generator\DalGen\obj\Debug\netcoreapp2.1\DalGen.AssemblyInfoInputs.cache
+C:\Users\veniu\source\repos\DAL Framework Generator\DalGen\obj\Debug\netcoreapp2.1\DalGen.AssemblyInfo.cs
+C:\Users\veniu\source\repos\DAL Framework Generator\DalGen\obj\Debug\netcoreapp2.1\DalGen.dll
+C:\Users\veniu\source\repos\DAL Framework Generator\DalGen\obj\Debug\netcoreapp2.1\DalGen.pdb
+C:\Users\veniu\source\repos\DAL Framework Generator\DalGen\obj\Debug\netcoreapp2.1\DalGen.Properties.Resources.resources
+C:\Users\veniu\source\repos\DAL Framework Generator\DalGen\obj\Debug\netcoreapp2.1\DalGen.csproj.GenerateResource.cache
+C:\Users\veniu\source\repos\DAL Framework Generator\DalGen\obj\Debug\netcoreapp2.1\DalGen.csprojAssemblyReference.cache

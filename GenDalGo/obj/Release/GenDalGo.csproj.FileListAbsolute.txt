@@ -1,0 +1,12 @@
+C:\Users\veniu\source\repos\DAL Framework Generator\GenDalGo\bin\Release\GenDalGo.exe.config
+C:\Users\veniu\source\repos\DAL Framework Generator\GenDalGo\bin\Release\GenDalGo.exe
+C:\Users\veniu\source\repos\DAL Framework Generator\GenDalGo\bin\Release\GenDalGo.pdb
+C:\Users\veniu\source\repos\DAL Framework Generator\GenDalGo\bin\Release\DalGen.dll
+C:\Users\veniu\source\repos\DAL Framework Generator\GenDalGo\bin\Release\DalGen.pdb
+C:\Users\veniu\source\repos\DAL Framework Generator\GenDalGo\obj\Release\GenDalGo.csprojAssemblyReference.cache
+C:\Users\veniu\source\repos\DAL Framework Generator\GenDalGo\obj\Release\GenDalGo.csproj.CoreCompileInputs.cache
+C:\Users\veniu\source\repos\DAL Framework Generator\GenDalGo\obj\Release\GenDalGo.csproj.CopyComplete
+C:\Users\veniu\source\repos\DAL Framework Generator\GenDalGo\obj\Release\GenDalGo.exe
+C:\Users\veniu\source\repos\DAL Framework Generator\GenDalGo\obj\Release\GenDalGo.pdb
+C:\Users\veniu\source\repos\DAL Framework Generator\GenDalGo\bin\Release\Newtonsoft.Json.dll
+C:\Users\veniu\source\repos\DAL Framework Generator\GenDalGo\bin\Release\Newtonsoft.Json.xml
